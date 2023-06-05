@@ -1,1 +1,4 @@
+node_modules/
+dist/
+
 server/database_diagram.drawio
